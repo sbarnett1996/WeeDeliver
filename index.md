@@ -1,18 +1,18 @@
 ## Welcome to GitHub Pages
 
-[Create Account]([create-account.html])
+[Create Account](create_account.html)
 
-[Shop for Weed]([shop-for-weed.html])
+[Shop for Weed](shop_for_weed.html)
 
-[Pay for Premium]([pay-for-premium.html])
+[Pay for Premium](pay_for_premium.html)
 
-[Contact courier]([contact-courier.html])
+[Contact courier](contact_courier.html)
 
-[Contact customer]([contact-customer.html])
+[Contact customer](contact_customer.html)
 
-[Checkout]([checkout-product.html])
+[Checkout](checkout.html)
 
-[Vendor Consulation with Premium User]([vendor-consultation.html])
+[Vendor Consulation with Premium User](vendor-consultation.html)
 
 You can use the [editor on GitHub](https://github.com/sbarnett1996/WeeDeliver/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
