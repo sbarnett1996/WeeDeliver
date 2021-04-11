@@ -1,6 +1,10 @@
-## Welcome to GitHub Pages
+## We Deliver to your door!
 
 [Login](login.html)
+
+# Verify your ID to get access to our vendors!
+
+[Upload a picture of your ID](id_upload.html)
 
 [Shop](shop_for_weed.html)
 
