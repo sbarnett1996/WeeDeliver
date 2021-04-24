@@ -12,7 +12,8 @@ stock/shortage info</panel_attributes><additional_attributes></additional_attrib
 for premium membership
 </panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>210</x><y>686</y><w>120</w><h>50</h></coordinates><panel_attributes>User can 
 post reviews
-</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>1270</x><y>246</y><w>120</w><h>40</h></coordinates><panel_attributes>Vendor login</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>1300</x><y>906</y><w>150</w><h>60</h></coordinates><panel_attributes>Vendor consultation 
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>1270</x><y>246</y><w>120</w><h>40</h></coordinates><panel_attributes>Vendor login/
+registration</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>1300</x><y>906</y><w>150</w><h>60</h></coordinates><panel_attributes>Vendor consultation 
 with user
 </panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>890</x><y>756</y><w>120</w><h>50</h></coordinates><panel_attributes>User delivery 
 preferences
