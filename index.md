@@ -6,8 +6,6 @@
 
 [Upload a picture of your ID](id_upload.html)
 
-<br>
-
 [Shop](shop_for_weed.html)
 
 [Checkout](checkout.html)
