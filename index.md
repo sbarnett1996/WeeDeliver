@@ -22,7 +22,7 @@
 
 [Vendor Consultation with Premium Customer](vendor_consultation.html)
 
-[Vendor Portal](vendor.portal.html)
+[Vendor Portal](vendor_portal_html)
 
 You can use the [editor on GitHub](https://github.com/sbarnett1996/WeeDeliver/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
