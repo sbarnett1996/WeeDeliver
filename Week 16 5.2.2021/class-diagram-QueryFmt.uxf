@@ -1,11 +1,11 @@
 <diagram program="umletino" version="14.4.0-SNAPSHOT"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>560</x><y>510</y><w>320</w><h>290</h></coordinates><panel_attributes>QueryFMT
 --
 # COMMON VARS
-sqlInsert
-sqlSelect
-
-sqlUpdate
-sqlDelete
+username
+password
+PaymentInfo
+DeliveryMethod
+file
 
 --
 # FUNCTIONS (METHODS) GO HERE
