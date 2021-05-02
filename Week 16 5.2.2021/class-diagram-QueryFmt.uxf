@@ -1,0 +1,16 @@
+<diagram program="umletino" version="14.4.0-SNAPSHOT"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>560</x><y>510</y><w>320</w><h>290</h></coordinates><panel_attributes>QueryFMT
+--
+# COMMON VARS
+sqlInsert
+sqlSelect
+
+sqlUpdate
+sqlDelete
+
+--
+# FUNCTIONS (METHODS) GO HERE
+formatSQLInsert()
+formatSQLSelect()
+
+formatSQLUpdate()
+formatSQLDelete()</panel_attributes><additional_attributes></additional_attributes></element></diagram>
