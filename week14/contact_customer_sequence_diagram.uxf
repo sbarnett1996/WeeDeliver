@@ -16,4 +16,5 @@ ConnectionSuccess=
 textPhone(Connected)
 
 </panel_attributes><additional_attributes>10;70;60;70;60;30;10;30</additional_attributes></element><element><id>Relation</id><coordinates><x>350</x><y>720</y><w>380</w><h>40</h></coordinates><panel_attributes>lt=&lt;-
-displayPage(ConnectionSuccess)</panel_attributes><additional_attributes>10;20;360;20</additional_attributes></element></diagram>
+displayPage(ConnectionSuccess)</panel_attributes><additional_attributes>10;20;360;20</additional_attributes></element><element><id>UMLFrame</id><coordinates><x>260</x><y>510</y><w>1260</w><h>310</h></coordinates><panel_attributes>Text Customer
+</panel_attributes><additional_attributes></additional_attributes></element></diagram>
